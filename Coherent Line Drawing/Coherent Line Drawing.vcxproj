@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClInclude Include="ETF.h" />
     <ClInclude Include="fdog.h" />
+    <ClInclude Include="FunctionDecalration.h" />
     <ClInclude Include="imatrix.h" />
     <ClInclude Include="myvec.h" />
   </ItemGroup>
